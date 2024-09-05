@@ -3,13 +3,16 @@
 :root {
   --font-base: "DM Sans", sans-serif;
 
-  --primary-color: #edf2f8;
-  --secondary-color: #313bac;
-  --black-color: #030303;
-  --lightGray-color: #e4e4e4;
-  --gray-color: #6b7688;
-  --brown-color: #46364a;
-  --white-color: #ffffff;
+  --primary-color: #607D8B; /* blue gray */
+  --secondary-color: #78909C; /* light blue gray */
+  --gray-color: #F5F5F5; /* light gray for text */
+  --black-color: #333333; /* dark gray */
+  --lightGray-color: #ECEFF1; /* very light blue gray */
+  --brown-color: #B0BEC5; /* muted blue */
+  --white-color: #FFFFFF; /* white */
+
+
+
 }
 
 * {
